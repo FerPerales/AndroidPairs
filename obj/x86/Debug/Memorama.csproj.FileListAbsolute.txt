@@ -1,0 +1,15 @@
+C:\Users\Fenriz\Dropbox\Privado\CUCEI\CSharp\Memorama\bin\Debug\Memorama.exe
+C:\Users\Fenriz\Dropbox\Privado\CUCEI\CSharp\Memorama\bin\Debug\Memorama.pdb
+C:\Users\Fenriz\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\Memorama.csprojResolveAssemblyReference.cache
+C:\Users\Fenriz\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\Memorama.MainForm.resources
+C:\Users\Fenriz\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\Memorama.csproj.GenerateResource.Cache
+C:\Users\Fenriz\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\Memorama.exe
+C:\Users\Fenriz\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\Memorama.pdb
+C:\Users\Fer\Dropbox\Privado\CUCEI\CSharp\Memorama\bin\Debug\Memorama.exe
+C:\Users\Fer\Dropbox\Privado\CUCEI\CSharp\Memorama\bin\Debug\Memorama.pdb
+C:\Users\Fer\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fer\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\Memorama.MainForm.resources
+C:\Users\Fer\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fer\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fer\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\Memorama.exe
+C:\Users\Fer\Dropbox\Privado\CUCEI\CSharp\Memorama\obj\x86\Debug\Memorama.pdb
